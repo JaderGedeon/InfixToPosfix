@@ -1,0 +1,13 @@
+C:\Users\Jader\Desktop\TrabLuba\Trabalho_1_EstruturaDeDados\Trabalho_1_EstruturaDeDados\bin\Debug\netcoreapp3.1\Trabalho_1_EstruturaDeDados.exe
+C:\Users\Jader\Desktop\TrabLuba\Trabalho_1_EstruturaDeDados\Trabalho_1_EstruturaDeDados\bin\Debug\netcoreapp3.1\Trabalho_1_EstruturaDeDados.deps.json
+C:\Users\Jader\Desktop\TrabLuba\Trabalho_1_EstruturaDeDados\Trabalho_1_EstruturaDeDados\bin\Debug\netcoreapp3.1\Trabalho_1_EstruturaDeDados.runtimeconfig.json
+C:\Users\Jader\Desktop\TrabLuba\Trabalho_1_EstruturaDeDados\Trabalho_1_EstruturaDeDados\bin\Debug\netcoreapp3.1\Trabalho_1_EstruturaDeDados.runtimeconfig.dev.json
+C:\Users\Jader\Desktop\TrabLuba\Trabalho_1_EstruturaDeDados\Trabalho_1_EstruturaDeDados\bin\Debug\netcoreapp3.1\Trabalho_1_EstruturaDeDados.dll
+C:\Users\Jader\Desktop\TrabLuba\Trabalho_1_EstruturaDeDados\Trabalho_1_EstruturaDeDados\bin\Debug\netcoreapp3.1\Trabalho_1_EstruturaDeDados.pdb
+C:\Users\Jader\Desktop\TrabLuba\Trabalho_1_EstruturaDeDados\Trabalho_1_EstruturaDeDados\obj\Debug\netcoreapp3.1\Trabalho_1_EstruturaDeDados.csprojAssemblyReference.cache
+C:\Users\Jader\Desktop\TrabLuba\Trabalho_1_EstruturaDeDados\Trabalho_1_EstruturaDeDados\obj\Debug\netcoreapp3.1\Trabalho_1_EstruturaDeDados.AssemblyInfoInputs.cache
+C:\Users\Jader\Desktop\TrabLuba\Trabalho_1_EstruturaDeDados\Trabalho_1_EstruturaDeDados\obj\Debug\netcoreapp3.1\Trabalho_1_EstruturaDeDados.AssemblyInfo.cs
+C:\Users\Jader\Desktop\TrabLuba\Trabalho_1_EstruturaDeDados\Trabalho_1_EstruturaDeDados\obj\Debug\netcoreapp3.1\Trabalho_1_EstruturaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Jader\Desktop\TrabLuba\Trabalho_1_EstruturaDeDados\Trabalho_1_EstruturaDeDados\obj\Debug\netcoreapp3.1\Trabalho_1_EstruturaDeDados.dll
+C:\Users\Jader\Desktop\TrabLuba\Trabalho_1_EstruturaDeDados\Trabalho_1_EstruturaDeDados\obj\Debug\netcoreapp3.1\Trabalho_1_EstruturaDeDados.pdb
+C:\Users\Jader\Desktop\TrabLuba\Trabalho_1_EstruturaDeDados\Trabalho_1_EstruturaDeDados\obj\Debug\netcoreapp3.1\Trabalho_1_EstruturaDeDados.genruntimeconfig.cache
